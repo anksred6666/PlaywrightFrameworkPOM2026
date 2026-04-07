@@ -1,0 +1,10 @@
+{
+    "courseName":"Selenium",
+    "description":"Selenium WebDriver Course ",
+    "instructor":"Mukesh",
+    "price":"1500",
+    "start_dd":"19",
+    "end_dd":"28",
+    "thumbnailPath":"testdata/Selenium_Logo.png"
+
+}

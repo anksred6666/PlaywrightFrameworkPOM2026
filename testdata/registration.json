@@ -1,0 +1,47 @@
+[
+    {
+    "name":"Tom Layman",
+    "email":"tom.layman",
+    "password":"tom@12345",
+    "state":"Goa",
+    "hobbies":["Singing","Dancing"]
+
+    },
+
+    {
+    "name":"Harry Potter",
+    "email":"harry.potter",
+    "password":"Admin@280326",
+    "state":"Maharashtra",
+    "hobbies":["Playing","Dancing"]
+
+    },
+
+    {
+    "name":"Hermoine Granger",
+    "email":"hermoine.grager",
+    "password":"granger@9456",
+    "state":"Karnataka",
+    "hobbies":["Singing","Swimming"]
+
+    },
+    {
+    "name":"Ron Weasley",
+    "email":"ron.weasley",
+    "password":"ron@290326",
+    "state":"Kerala",
+    "hobbies":["Singing","Dancing"]
+
+    },
+
+    {
+    "name":"Severus Snape",
+    "email":"severus.snape",
+    "password":"snape@12345",
+    "state":"Rajasthan",
+    "hobbies":["Reading","Singing"]
+
+    }
+
+
+]
